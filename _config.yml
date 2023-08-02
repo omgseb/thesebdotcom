@@ -148,10 +148,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-mastodon:
-  username: omgseb
-  instance: mastodon.social
-
 webrick:
   headers:
     i-am-seb: yes-i-am
