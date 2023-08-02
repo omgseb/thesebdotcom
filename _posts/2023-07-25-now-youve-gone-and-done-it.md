@@ -10,6 +10,6 @@ Once the fun stuff is configured, the techy stuff, I never really want to keep u
 
 Maybe. We'll see what happens.
 
-The primary reason for doing this is the realization that I've obliterated my online presence by getting rid of social accounts that seem more toxic than helpful. As far as most social sites are concerned, I don't even exist! In an effort to stamp my online presence back into the internet of garbage, here is my one-way communication with the world: the ramblings of an engineer on a generic subdomain of my dot com which, itself, has no real content.
+The primary reason for doing this is the realization that I've obliterated my online presence by getting rid of social accounts that seem more toxic than helpful. As far as most social sites are concerned, I don't even exist! In an effort to stamp my online presence back into the internet of garbage, here is my one-way communication with the world: the ramblings of an engineer on a generic dot com which, itself, has no real content.
 
 You're welcome.
