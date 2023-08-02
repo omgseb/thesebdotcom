@@ -147,6 +147,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll/mastodon_webfinger
+
+mastodon:
+  username: omgseb
+  instance: mastodon.social
 
 webrick:
   headers:
