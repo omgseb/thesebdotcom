@@ -17,13 +17,13 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/tsdc.png
 
 social-network-links:
   email: "seb@theseb.com"
   wellfound: sebastian-cardoza
   mastodon: mastodon.social/@omgseb
-  bluesky: theseb.com
+  #bluesky: theseb.com
   rss: true
   github: omgseb
   youtube: omgseb2
@@ -40,7 +40,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "brain.theseb.com"
+url-pretty: "theseb.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
