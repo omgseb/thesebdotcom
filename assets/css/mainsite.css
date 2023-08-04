@@ -3,6 +3,10 @@
   width:95%;
 }
 
+input#nav-search-input {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 /* _includes/youtube.html */
 .youtube-wrapper {
   position: relative;
