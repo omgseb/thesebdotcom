@@ -3,7 +3,7 @@ email: seb@theseb.com
 author: Sebastian Cardoza
 description: seb's thoughts, whether you wanted them or not.
 baseurl: ""
-url: "https://thoughts.theseb.com"
+url: "https://theseb.com"
 github_username: omgseb
 
 remote_theme: daattali/beautiful-jekyll
@@ -40,7 +40,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "thoughts.theseb.com"
+url-pretty: "theseb.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
