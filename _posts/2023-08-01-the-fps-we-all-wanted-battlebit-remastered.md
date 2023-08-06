@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The FPS We All Wanted: BattleBit Remastered"
-subtitle: a lesson in giving people what they ask for
 date: 2023-08-02
 ---
 
