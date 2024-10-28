@@ -3,3 +3,21 @@ layout: home
 title: seb's thoughts
 subtitle: whether you wanted them or not
 ---
+<body>
+  <div id="go">
+    <div id="away">
+      <div>go</div>
+    </div>
+  </div>
+  <video id="thechase" width="1280" height="720" autoplay loop muted disablepictureinpicture disableremoteplayback playsinline controlslist="nofullscreen">
+    <source src="/assets/minisites/thechase/ostrich.mp4" type="video/mp4" />
+    get a better browser, ffs
+  </video>
+  <audio id="thesoundtrack" src="/assets/minisites/thechase/andreas-henneberg-duff-trip.mp3" preload="auto" crossorigin="anonymous" loop></audio>
+  <script type="text/javascript">
+    document.querySelector("#go").onclick = function() {
+      document.querySelector("#thesoundtrack").play();
+      document.querySelector("#go").style.display = 'none';
+    };
+  </script>
+</body>
