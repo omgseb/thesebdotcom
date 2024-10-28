@@ -8,26 +8,26 @@ github_username: omgseb
 
 remote_theme: daattali/beautiful-jekyll
 
-navbar-links:
-  About: "about"
-  Bucket List: "bucketlist"
+# navbar-links:
+#   About: "about"
+#   Bucket List: "bucketlist"
 
-avatar: "/assets/img/seb-gt3.jpg"
-round-avatar: true
+# avatar: "/assets/img/seb-gt3.jpg"
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 title-img: /assets/img/tsdc.png
 
-social-network-links:
-  email: "seb@theseb.com"
-  wellfound: sebastian-cardoza
-  mastodon: mastodon.social/@omgseb
-  #bluesky: theseb.com
-  rss: true
-  github: omgseb
-  youtube: omgseb2
-  #steam: omgseb
+# social-network-links:
+#   email: "seb@theseb.com"
+#   wellfound: sebastian-cardoza
+#   mastodon: mastodon.social/@omgseb
+#   #bluesky: theseb.com
+#   rss: true
+#   github: omgseb
+#   youtube: omgseb2
+#   #steam: omgseb
 
 rss-description: seb's thoughts, whether you wanted them or not.
 
@@ -46,13 +46,13 @@ url-pretty: "theseb.com"
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: false
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: false
